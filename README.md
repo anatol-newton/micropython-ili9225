@@ -1,5 +1,7 @@
 # MicroPython driver for ILI9225 display
 
+ℹ️ this code was originally written by [@burgrp](https://github.com/burgrp), this fork was created to make it available through mip
+
 This is a MicroPython driver for the ILI9225 display. The driver provides a set of functions for initializing the display, drawing simple geometric shapes and displaying text.
 
 The driver uses the SPI interface to communicate with the display and provides support for orientation setting.
