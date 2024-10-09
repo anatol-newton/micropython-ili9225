@@ -1,0 +1,8 @@
+{
+  "urls": [
+    ["ili9225", "github:anatol_newton/micropython-ili9225/src/ili9225.py"],
+    ["font", "github:anatol_newton/micropython-ili9225/src/font.py"]
+  ],
+  "deps": [],
+  "version": "1.0.0"
+}
